@@ -1,2 +1,0 @@
-# jedi
-A New Hope
